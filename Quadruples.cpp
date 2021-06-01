@@ -1,8 +1,9 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
 //	Q. Write  program to check how many  elements in the array
-//		are quadraples.(qadraples contains four array elements
-//		in which the left side no are equal to the sumaation of
-//		the right hand eleents.)
+//	    are quadraples.(qadraples contains four array elements
+//	    in which the left side no are equal to the sumaation of
+//	    the right hand elements.)
+//
 //
 //   	Input:     1 4 2 3  	                  |  2 3  1  4 0
 //  	Output:     1 quadraple (1+4 = 2+3)       |	  2 quadraples (2+3 = 1+4) and (3+1 = 4+0)
