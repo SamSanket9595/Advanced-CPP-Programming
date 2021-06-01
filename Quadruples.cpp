@@ -1,11 +1,11 @@
-////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
 //	Q. Write  program to check how many  elements in the array
 //		are quadraples.(qadraples contains four array elements
 //		in which the left side no are equal to the sumaation of
 //		the right hand eleents.)
 //
-//	Input: 1 4 2 3  				  |  2 3  1  4 0
-//  Output: 1 quadraple (1+4 = 2+3)   |		2 quadraples (2+3 = 1+4) and (3+1 = 4+0)
+//   	Input:     1 4 2 3  	                  |  2 3  1  4 0
+//  	Output:     1 quadraple (1+4 = 2+3)       |	  2 quadraples (2+3 = 1+4) and (3+1 = 4+0)
 //
 //	Technology: C++
 //
@@ -15,7 +15,8 @@
 //	Author: Sanket Kolhe
 // 	Date : 31/05/2021
 //
-////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 #include<iostream>
 using namespace std;
